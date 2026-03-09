@@ -1,0 +1,56 @@
+# Media Company Business Intelligence Project
+
+This project demonstrates the design and implementation of a Business Intelligence system for a media company.
+
+The project includes:
+
+• Data cleaning using Python
+• Data warehouse design using PostgreSQL
+• Constellation data model
+• KPI tracking for 10 departments
+• Interactive dashboards built with Power BI
+
+---
+
+## Architecture
+
+Data Sources (Excel files)
+        ↓
+Data Cleaning (Python / Pandas)
+        ↓
+PostgreSQL Data Warehouse
+        ↓
+Constellation Schema
+        ↓
+Power BI Dashboards
+
+---
+
+## Technologies Used
+
+- Python (Pandas)
+- PostgreSQL
+- SQL
+- Power BI
+- GitHub
+
+---
+
+## Dashboards
+
+The BI system includes dashboards for:
+
+- Content Performance
+- Audience Engagement
+- Subscriptions
+- Advertising Revenue
+- Editorial Productivity
+- Competitive Analysis
+- Infrastructure Monitoring
+- Governance & Strategy
+
+---
+
+## Project Status
+
+Work in progress – data modeling and ETL development.
