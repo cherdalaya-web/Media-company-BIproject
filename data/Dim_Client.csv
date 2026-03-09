@@ -1,0 +1,201 @@
+Client_id,Segmentation_client,Satisfaction_client,Statut_abonnement,Canal_principal
+1,B2C,2,Actif,Réseaux sociaux
+2,Institutionnel,9,Actif,Réseaux sociaux
+3,Partenaire,7,En essai,Téléphone
+4,Partenaire,8,Inactif,Réseaux sociaux
+5,Partenaire,7,Inactif,Réseaux sociaux
+6,B2B,9,Actif,Visite
+7,Partenaire,4,Inactif,Visite
+8,Institutionnel,1,Inactif,Email
+9,B2C,10,En essai,Email
+10,B2B,5,Actif,Visite
+11,B2B,5,Actif,Email
+12,Partenaire,4,Actif,Réseaux sociaux
+13,Institutionnel,8,Inactif,Réseaux sociaux
+14,B2C,10,Inactif,Visite
+15,B2B,6,Inactif,Email
+16,B2B,7,Actif,Téléphone
+17,Partenaire,10,En essai,Visite
+18,Partenaire,3,Inactif,Téléphone
+19,B2B,10,Inactif,Email
+20,B2C,9,Actif,Visite
+21,Partenaire,2,En essai,Email
+22,Partenaire,1,En essai,Réseaux sociaux
+23,B2C,2,En essai,Téléphone
+24,Partenaire,4,En essai,Email
+25,Partenaire,8,Actif,Visite
+26,B2B,2,En essai,Visite
+27,Partenaire,10,Inactif,Email
+28,B2B,3,En essai,Réseaux sociaux
+29,B2C,9,En essai,Visite
+30,Institutionnel,7,Actif,Réseaux sociaux
+31,B2C,2,Actif,Email
+32,Partenaire,7,Inactif,Téléphone
+33,B2B,9,En essai,Visite
+34,Institutionnel,9,En essai,Email
+35,B2C,3,Actif,Réseaux sociaux
+36,B2B,9,Actif,Réseaux sociaux
+37,Institutionnel,1,Actif,Visite
+38,Partenaire,1,Actif,Visite
+39,B2B,5,En essai,Visite
+40,Institutionnel,10,Inactif,Visite
+41,Institutionnel,8,En essai,Téléphone
+42,Partenaire,6,En essai,Visite
+43,B2B,10,Inactif,Email
+44,B2B,5,En essai,Email
+45,Partenaire,1,Inactif,Téléphone
+46,Partenaire,2,En essai,Email
+47,B2B,4,Inactif,Visite
+48,B2B,8,Inactif,Email
+49,B2B,10,Actif,Email
+50,B2B,7,Inactif,Réseaux sociaux
+51,B2C,7,Actif,Téléphone
+52,B2B,2,Actif,Téléphone
+53,Institutionnel,4,Inactif,Visite
+54,B2C,5,Actif,Visite
+55,B2B,1,En essai,Téléphone
+56,B2C,9,En essai,Email
+57,Partenaire,5,Inactif,Téléphone
+58,B2B,7,Inactif,Réseaux sociaux
+59,Partenaire,5,En essai,Téléphone
+60,B2B,10,Actif,Visite
+61,B2C,5,Inactif,Téléphone
+62,B2B,3,Inactif,Visite
+63,B2B,4,Actif,Email
+64,B2C,5,Inactif,Visite
+65,Partenaire,8,Actif,Téléphone
+66,B2B,9,Actif,Réseaux sociaux
+67,B2B,10,En essai,Réseaux sociaux
+68,Partenaire,6,En essai,Téléphone
+69,Institutionnel,1,Actif,Visite
+70,B2C,2,Actif,Visite
+71,Partenaire,9,En essai,Réseaux sociaux
+72,Partenaire,9,Inactif,Téléphone
+73,Institutionnel,5,En essai,Visite
+74,Institutionnel,5,Inactif,Réseaux sociaux
+75,B2C,8,Actif,Réseaux sociaux
+76,Partenaire,8,Inactif,Réseaux sociaux
+77,Institutionnel,2,Actif,Réseaux sociaux
+78,Partenaire,6,Actif,Email
+79,B2C,1,Inactif,Email
+80,Institutionnel,3,Actif,Visite
+81,Institutionnel,5,Inactif,Téléphone
+82,B2B,7,Inactif,Réseaux sociaux
+83,Institutionnel,2,Actif,Visite
+84,Partenaire,5,Actif,Visite
+85,Institutionnel,9,Inactif,Visite
+86,B2C,4,En essai,Téléphone
+87,Partenaire,10,Inactif,Email
+88,Partenaire,3,Actif,Réseaux sociaux
+89,Partenaire,9,Actif,Réseaux sociaux
+90,B2B,5,Actif,Visite
+91,Partenaire,10,Actif,Visite
+92,Partenaire,6,Actif,Réseaux sociaux
+93,B2C,6,Inactif,Visite
+94,B2B,5,Actif,Email
+95,B2B,10,En essai,Réseaux sociaux
+96,Partenaire,2,En essai,Réseaux sociaux
+97,B2B,10,Inactif,Email
+98,B2B,1,En essai,Téléphone
+99,Partenaire,8,Actif,Réseaux sociaux
+100,Institutionnel,7,Inactif,Réseaux sociaux
+101,B2B,4,En essai,Email
+102,B2B,7,Inactif,Visite
+103,Institutionnel,10,Inactif,Visite
+104,Partenaire,6,Actif,Téléphone
+105,Partenaire,9,Actif,Réseaux sociaux
+106,Institutionnel,4,En essai,Réseaux sociaux
+107,Institutionnel,6,Actif,Email
+108,B2C,4,Inactif,Réseaux sociaux
+109,Partenaire,7,En essai,Email
+110,Institutionnel,2,Inactif,Email
+111,B2B,5,En essai,Email
+112,Institutionnel,9,Inactif,Réseaux sociaux
+113,Partenaire,3,Actif,Réseaux sociaux
+114,Partenaire,9,Inactif,Téléphone
+115,Partenaire,2,En essai,Visite
+116,Institutionnel,10,En essai,Email
+117,Institutionnel,7,Inactif,Téléphone
+118,B2B,7,En essai,Réseaux sociaux
+119,Partenaire,1,En essai,Réseaux sociaux
+120,Institutionnel,6,Actif,Email
+121,Institutionnel,7,Actif,Visite
+122,Institutionnel,5,En essai,Téléphone
+123,B2C,2,Actif,Réseaux sociaux
+124,B2B,5,Actif,Téléphone
+125,B2B,6,En essai,Téléphone
+126,Institutionnel,1,Actif,Réseaux sociaux
+127,B2B,4,Inactif,Téléphone
+128,B2C,1,En essai,Téléphone
+129,B2C,9,Inactif,Email
+130,Partenaire,8,En essai,Visite
+131,B2B,3,Actif,Visite
+132,Partenaire,8,En essai,Visite
+133,B2B,3,Actif,Email
+134,Institutionnel,10,Actif,Réseaux sociaux
+135,B2C,10,Actif,Visite
+136,Partenaire,6,Actif,Téléphone
+137,B2C,6,Inactif,Réseaux sociaux
+138,B2B,9,Inactif,Visite
+139,B2C,7,Actif,Visite
+140,B2B,9,Actif,Email
+141,B2B,7,Actif,Email
+142,Partenaire,8,En essai,Réseaux sociaux
+143,Institutionnel,3,Actif,Email
+144,B2C,10,En essai,Réseaux sociaux
+145,Partenaire,9,Inactif,Réseaux sociaux
+146,Institutionnel,6,Inactif,Visite
+147,Institutionnel,6,Inactif,Réseaux sociaux
+148,Institutionnel,1,En essai,Téléphone
+149,Partenaire,1,En essai,Visite
+150,B2C,3,Actif,Email
+151,B2B,9,En essai,Visite
+152,Institutionnel,7,Actif,Email
+153,B2C,2,Actif,Email
+154,Institutionnel,5,Inactif,Réseaux sociaux
+155,B2B,3,En essai,Téléphone
+156,B2B,8,En essai,Téléphone
+157,B2C,9,Inactif,Réseaux sociaux
+158,Institutionnel,1,En essai,Visite
+159,Partenaire,8,Inactif,Réseaux sociaux
+160,B2B,3,En essai,Téléphone
+161,B2B,6,En essai,Téléphone
+162,B2B,8,Inactif,Téléphone
+163,B2B,5,Inactif,Email
+164,B2B,8,En essai,Email
+165,Institutionnel,7,En essai,Téléphone
+166,Partenaire,10,En essai,Réseaux sociaux
+167,Institutionnel,2,En essai,Email
+168,Institutionnel,10,Inactif,Téléphone
+169,B2B,2,Inactif,Visite
+170,B2B,4,Inactif,Visite
+171,B2C,2,En essai,Visite
+172,Institutionnel,10,Inactif,Réseaux sociaux
+173,Partenaire,8,Actif,Email
+174,Partenaire,9,En essai,Email
+175,B2C,7,En essai,Téléphone
+176,Partenaire,10,Actif,Email
+177,B2C,9,Actif,Téléphone
+178,Partenaire,4,Actif,Réseaux sociaux
+179,B2C,10,Actif,Email
+180,Institutionnel,2,Inactif,Réseaux sociaux
+181,Institutionnel,3,Inactif,Réseaux sociaux
+182,Partenaire,10,Inactif,Réseaux sociaux
+183,Institutionnel,1,Inactif,Téléphone
+184,B2B,3,En essai,Visite
+185,B2C,6,Actif,Email
+186,Partenaire,5,En essai,Email
+187,B2B,7,En essai,Email
+188,Partenaire,9,Inactif,Téléphone
+189,B2B,3,En essai,Téléphone
+190,Partenaire,8,Actif,Email
+191,Institutionnel,4,Inactif,Réseaux sociaux
+192,Partenaire,1,Actif,Réseaux sociaux
+193,B2B,4,Actif,Visite
+194,Partenaire,7,En essai,Téléphone
+195,Partenaire,2,En essai,Réseaux sociaux
+196,B2C,1,Actif,Réseaux sociaux
+197,B2B,6,Inactif,Visite
+198,Partenaire,5,Actif,Email
+199,Institutionnel,7,Inactif,Visite
+200,Partenaire,6,Inactif,Visite

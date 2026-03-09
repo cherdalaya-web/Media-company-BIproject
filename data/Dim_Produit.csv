@@ -1,0 +1,51 @@
+Produit_id,Nom_produit,Type_produit,Categorie,Prix,Statut,Date_lancement
+1,Produit_1,Service,Mixte,325.37,Inactif,2023-05-31
+2,Produit_2,Contenu Premium,Mixte,217.66,Actif,2022-04-11
+3,Produit_3,Publicité,Mixte,97.96,Inactif,2022-06-14
+4,Produit_4,Contenu Premium,Numérique,35.69,Actif,2022-04-22
+5,Produit_5,Publicité,Numérique,251.21,Inactif,2023-11-27
+6,Produit_6,Contenu Premium,Mixte,317.11,Inactif,2022-07-26
+7,Produit_7,Service,Numérique,117.88,En développement,2023-11-04
+8,Produit_8,Publicité,Numérique,118.93,En développement,2022-03-04
+9,Produit_9,Service,Mixte,205.68,Actif,2023-08-16
+10,Produit_10,Service,Numérique,184.79,Actif,2023-01-13
+11,Produit_11,Autre,Numérique,19.75,En développement,2023-02-23
+12,Produit_12,Service,Mixte,213.79,Inactif,2023-05-06
+13,Produit_13,Contenu Premium,Mixte,296.88,Actif,2022-01-12
+14,Produit_14,Abonnement,Mixte,307.21,En développement,2023-05-24
+15,Produit_15,Abonnement,Numérique,143.66,En développement,2022-04-15
+16,Produit_16,Autre,Papier,259.92,En développement,2022-07-10
+17,Produit_17,Publicité,Numérique,127.48,Actif,2023-08-06
+18,Produit_18,Autre,Mixte,31.48,En développement,2023-04-22
+19,Produit_19,Contenu Premium,Numérique,69.5,Inactif,2023-07-26
+20,Produit_20,Abonnement,Numérique,292.56,En développement,2022-08-08
+21,Produit_21,Autre,Papier,143.18,Inactif,2022-05-17
+22,Produit_22,Autre,Mixte,10.73,Actif,2022-01-04
+23,Produit_23,Autre,Papier,35.57,Actif,2023-01-03
+24,Produit_24,Autre,Mixte,326.31,Actif,2023-03-10
+25,Produit_25,Abonnement,Papier,39.98,Actif,2022-09-30
+26,Produit_26,Autre,Mixte,289.47,En développement,2022-12-02
+27,Produit_27,Contenu Premium,Mixte,101.77,En développement,2022-02-26
+28,Produit_28,Publicité,Papier,334.14,Actif,2022-07-02
+29,Produit_29,Service,Mixte,340.98,Inactif,2022-04-09
+30,Produit_30,Autre,Mixte,464.09,Inactif,2023-12-25
+31,Produit_31,Autre,Papier,435.01,Actif,2023-07-15
+32,Produit_32,Contenu Premium,Numérique,152.13,Inactif,2023-09-14
+33,Produit_33,Abonnement,Papier,364.18,Actif,2022-08-25
+34,Produit_34,Autre,Numérique,124.13,Actif,2022-11-09
+35,Produit_35,Publicité,Papier,194.45,Inactif,2022-06-26
+36,Produit_36,Publicité,Papier,148.82,Actif,2023-11-15
+37,Produit_37,Publicité,Mixte,41.48,Inactif,2023-02-21
+38,Produit_38,Autre,Mixte,71.95,Actif,2023-07-03
+39,Produit_39,Publicité,Papier,282.87,Actif,2022-08-17
+40,Produit_40,Publicité,Mixte,405.85,Actif,2022-01-16
+41,Produit_41,Abonnement,Papier,250.46,En développement,2022-07-17
+42,Produit_42,Service,Papier,419.56,Actif,2022-04-20
+43,Produit_43,Publicité,Numérique,244.62,Inactif,2022-10-05
+44,Produit_44,Contenu Premium,Numérique,286.54,Inactif,2022-08-17
+45,Produit_45,Abonnement,Numérique,484.77,Inactif,2023-07-15
+46,Produit_46,Autre,Papier,203.45,Inactif,2022-08-17
+47,Produit_47,Abonnement,Numérique,226.29,Inactif,2023-03-06
+48,Produit_48,Abonnement,Numérique,421.04,En développement,2022-05-11
+49,Produit_49,Autre,Numérique,495.36,En développement,2022-09-09
+50,Produit_50,Publicité,Mixte,284.35,Actif,2022-02-27

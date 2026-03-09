@@ -1,0 +1,21 @@
+type_veille_id,Libelle,Domaine_strategique
+1,Veille technologique,Santé
+2,Veille réglementaire,Technologie
+3,Veille stratégique,Politique
+4,Veille technologique,Environnement
+5,Veille stratégique,Politique
+6,Veille concurrentielle,Politique
+7,Veille technologique,Environnement
+8,Veille réglementaire,Environnement
+9,Veille concurrentielle,Santé
+10,Veille technologique,Technologie
+11,Veille technologique,Santé
+12,Veille technologique,Environnement
+13,Veille concurrentielle,Politique
+14,Veille réglementaire,Économie
+15,Veille réglementaire,Économie
+16,Veille stratégique,Politique
+17,Veille technologique,Politique
+18,Veille stratégique,Santé
+19,Veille concurrentielle,Économie
+20,Veille concurrentielle,Politique

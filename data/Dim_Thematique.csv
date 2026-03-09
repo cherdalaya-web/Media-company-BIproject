@@ -1,0 +1,16 @@
+Thematique_id,Nom,Rubrique,Categorie,Langue
+2,Élections,International,Opinion,Arabe
+3,Santé,Local,Opinion,Arabe
+4,Éducation,National,Analyse,Français
+5,Transport,International,Urgent,Français
+6,Climat,Local,Opinion,Arabe
+7,Élections,International,Analyse,Anglais
+8,Santé,International,Analyse,Arabe
+9,Éducation,Local,Opinion,Anglais
+10,Transport,Local,Opinion,Anglais
+11,Climat,International,Opinion,Anglais
+12,Élections,Local,Opinion,Arabe
+13,Santé,International,Analyse,Arabe
+14,Éducation,National,Urgent,Anglais
+15,Transport,Local,Urgent,Français
+16,Climat,International,Analyse,Arabe
