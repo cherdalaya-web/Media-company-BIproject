@@ -1,0 +1,8 @@
+
+Part of Code:
+import pandas as pd
+
+df_client = pd.read_csv("../data/raw/Dim_Client.csv")
+df_client.head()
+df_client.info()
+df_client.describe()
